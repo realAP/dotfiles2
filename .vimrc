@@ -42,7 +42,7 @@ Plug 'neoclide/coc.nvim', {'tag': '*', 'branch': 'release'}
 
 call plug#end()
 """""""""""""""""""""""""""""""""""""
-
+" test
 
 """""""""""""""MAPPINGS"""""""""""""""
 "define leader
