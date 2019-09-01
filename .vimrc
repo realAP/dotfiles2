@@ -4,7 +4,10 @@ if empty(glob('~/.vim/autoload/plug.vim'))
         \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
     autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
 endif
-
+"another Merge conflicht in this kind of function
+"for(int i=3; i< 5; i#+) {
+" echo "hello world;
+" }
 
 """""""""""""""PLUGINS"""""""""""""""
 call plug#begin()
